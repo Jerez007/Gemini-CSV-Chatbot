@@ -1,5 +1,8 @@
 # Gemini CSV Chatbot
 
+Acknowledgments
+Original Creator: https://github.com/kaifcoder
+
 Orignal source: Gemini PDF Chatbox
 https://github.com/kaifcoder/gemini_multipdf_chat/blob/main/README.md
 
